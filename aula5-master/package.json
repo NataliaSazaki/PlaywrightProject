@@ -1,0 +1,19 @@
+{
+  "name": "aula5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.7.0",
+    "@playwright/test": "^1.44.0",
+    "@types/cucumber": "^7.0.0",
+    "@types/node": "^20.12.12",
+    "playwright": "^1.44.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
